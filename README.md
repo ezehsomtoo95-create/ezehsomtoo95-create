@@ -17,3 +17,4 @@ I leverage industry-leading development tools and modern workflows to deliver ef
 Ready to elevate your online presence? I am currently accepting new projects. 
 
 **Reach out via my social channels or send me a message here on GitHub to discuss your vision!**
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fezehsomtoo95-create&label=Profile%20Views&countColor=%233776ab)
